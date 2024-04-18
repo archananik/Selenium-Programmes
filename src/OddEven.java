@@ -13,8 +13,9 @@ public class OddEven
 	     }
 	     else
 	     {
-	    	 System.out.println("number is odd");
+	    	 System.out.println("the given number is odd");
 	     }
+	     
 
 	}
 
