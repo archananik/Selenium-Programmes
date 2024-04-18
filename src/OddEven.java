@@ -9,7 +9,7 @@ public class OddEven
 	     
 	     if(a%2==0)
 	     {
-	    	 System.out.println("number is even");
+	    	 System.out.println("the given number is even");
 	     }
 	     else
 	     {
